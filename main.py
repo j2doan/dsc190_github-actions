@@ -1,8 +1,9 @@
 
 def main():
     print("Hello from dsc190-github-actions!")
-    print("multiple statements")
-    print("on one line")
+    x = 1 + 2
+    print(x)
+
 
 if __name__ == "__main__":
     main()
